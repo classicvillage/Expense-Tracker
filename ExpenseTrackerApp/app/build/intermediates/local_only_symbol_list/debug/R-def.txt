@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color background
+color primary
+color primaryDark
+string app_name
+style Theme.SmartExpenseTracker
